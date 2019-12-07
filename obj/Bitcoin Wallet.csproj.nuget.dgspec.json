@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/Bitcoin Wallet.csproj": {}
+  },
+  "projects": {
+    "/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/Bitcoin Wallet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/Bitcoin Wallet.csproj",
+        "projectName": "Bitcoin Wallet",
+        "projectPath": "/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/Bitcoin Wallet.csproj",
+        "packagesPath": "/Users/olivierriccini/.nuget/packages/",
+        "outputPath": "/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/olivierriccini/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "HBitcoin": {
+              "target": "Package",
+              "version": "[0.1.8.2, )"
+            },
+            "NBitcoin": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "QBitNinja.Client": {
+              "target": "Package",
+              "version": "[1.0.3.50, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/bin/Debug/netcoreapp3.1/Bitcoin Wallet
+/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/bin/Debug/netcoreapp3.1/Bitcoin Wallet.deps.json
+/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/bin/Debug/netcoreapp3.1/Bitcoin Wallet.runtimeconfig.json
+/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/bin/Debug/netcoreapp3.1/Bitcoin Wallet.runtimeconfig.dev.json
+/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/bin/Debug/netcoreapp3.1/Bitcoin Wallet.dll
+/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/bin/Debug/netcoreapp3.1/Bitcoin Wallet.pdb
+/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/obj/Debug/netcoreapp3.1/Bitcoin Wallet.csprojAssemblyReference.cache
+/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/obj/Debug/netcoreapp3.1/Bitcoin Wallet.AssemblyInfoInputs.cache
+/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/obj/Debug/netcoreapp3.1/Bitcoin Wallet.AssemblyInfo.cs
+/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/obj/Debug/netcoreapp3.1/Bitcoin Wallet.dll
+/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/obj/Debug/netcoreapp3.1/Bitcoin Wallet.pdb
+/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/bin/Debug/netcoreapp3.1/ConcurrentCollections.dll
+/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/bin/Debug/netcoreapp3.1/DotNetTor.dll
+/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/bin/Debug/netcoreapp3.1/HBitcoin.dll
+/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/bin/Debug/netcoreapp3.1/NBitcoin.dll
+/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/bin/Debug/netcoreapp3.1/QBitNinja.Client.dll
+/Users/olivierriccini/code/Kingsland-University/MI2/olivier-riccini-create-bitcoin-wallet-exercise/Bitcoin Wallet/obj/Debug/netcoreapp3.1/Bitcoin Wallet.csproj.CopyComplete

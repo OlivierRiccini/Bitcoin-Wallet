@@ -181,6 +181,10 @@ namespace Bitcoin_Wallet
         private static void RecoverWallet(string password, Mnemonic mnemonic, string date)
         {
             // TODO: Implement the logic to Recover and Save the Wallet.
+            Network currentNetwork = Network.TestNet;
+            
+            Random rand = new Random();
+            Safe safe = Safe.Recover(mnemonic, password, walletFilePath + "RecoveredWalletNum" + rand.Next() + ".json", currentNetwork, creationTime: DateTimeOffset.ParseExact(date, "yyyy-MM-dd", CultureInfo.InvariantCulture));
             WriteLine("Wallet successfully recovered");
         }
 
@@ -219,7 +223,7 @@ namespace Bitcoin_Wallet
                     WriteLine("With the mnemonic words AND the password you can recover this wallet.");
                     WriteLine();
                     WriteLine("----------");
-                    // WriteLine(mnemonic);
+                    WriteLine(mnemonic);
                     WriteLine("----------");
                     WriteLine(
                         "Write down and keep in SECURE place your private keys. Only through them you can access your coins!");
